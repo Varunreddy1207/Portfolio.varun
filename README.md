@@ -10,3 +10,4 @@ Personal portfolio website for **Masireddy Varun Kumar Reddy** — Aspiring AI D
   - Responsive design optimized across mobile, tablet, and desktop
   - Showcase for projects, technical skills, and career journey
   - Integrated contact section
+
